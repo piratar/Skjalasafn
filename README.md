@@ -26,6 +26,8 @@ Píratar fylgja að sjálfsögðu lögum [162/2006](https://www.stjornartidindi.
 * [2015](https://github.com/piratar/fundargerdir/blob/master/2015/%C3%81rsreikningur-2015.pdf)
 
 
+---
+
 Þú gætir einnig haft áhuga á:
 * [Stefnu](https://github.com/piratar/stefna) Pírata
 * [Lögum](https://log.piratar.is/) Pírata
