@@ -18,7 +18,9 @@ Opið bókhald tryggir gegnsæ vinnubrögð. Félagsmenn geta þannig fylgst me�
 
 Píratar fylgja að sjálfsögðu lögum [162/2006](https://www.stjornartidindi.is/Advert.aspx?RecordID=c408f739-0677-460b-958b-4d67088d2c2c) um fjármál stjórnmálasamtaka og leiðbeiningum Fjármálaráðuneytisins til stjórnmálaflokka.
 
-* [2017](https://github.com/piratar/fundargerdir/blob/master/2017/%C3%81rsreikningur-P%C3%A1NA.pdf)
+* [2017 Ársreikningur-PáNA glærusýning](https://github.com/piratar/fundargerdir/blob/master/2017/%C3%81rsreikningur-P%C3%A1NA.pdf)
+
+### Ársreikningar
 * [2017](https://github.com/piratar/fundargerdir/blob/master/2017/Pi%CC%81ratar-A%CC%81rsreikningur-2017.pdf)
 * [2016](https://github.com/piratar/fundargerdir/blob/master/2016/P%C3%ADratar-%C3%81rsreikningar-2016.pdf)
 * [2015](https://github.com/piratar/fundargerdir/blob/master/2015/%C3%81rsreikningur-2015.pdf)
