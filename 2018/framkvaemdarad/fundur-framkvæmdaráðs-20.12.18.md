@@ -45,7 +45,6 @@ Fundur samþykkir
 
 Fundur settur kl.  18.12
 
-
 2. Dagskrárbreytingartillögur 
 
 Fundur samþykkir að liður um Pírataspjallið fari á undan lið um starfsmannamál 
