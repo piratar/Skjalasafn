@@ -1,7 +1,7 @@
-###Fundur framkvæmdaráðs 20.desember 2018
+### Fundur framkvæmdaráðs 20.desember 2018
 Síðumúli 23 
 
-#####Mætt eru: 
+##### Mætt eru: 
 Elín Ýr Arnar Hafdísardóttir, ritari
 Unnar Þór Sæmundssin, gjaldkeri
 Pétur Þór Þorvaldsson, formaður 
@@ -9,14 +9,14 @@ Pétur Þór Þorvaldsson, formaður
 Steinar Guðlaugssin 
 Fjarverandi: Valgerður Árnadóttir, alþjóðafulltrúi 
 
-#####Gestir: 
+##### Gestir: 
     Mörður Áslaugarson 
     Erla Hlynsdóttir 
     Hans Benjamínsson 
     
     
 
-####Dagskrá fundar :
+#### Dagskrá fundar :
     
 1. Kosninga fundarstjóra og ritara 
 2. Dagskrárbreytingartillögur 
