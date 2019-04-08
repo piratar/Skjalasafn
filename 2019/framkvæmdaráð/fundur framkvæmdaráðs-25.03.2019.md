@@ -1,30 +1,6 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@elinpirati 
-3
-0 1 piratar/fundargerdir
- Code  Issues 0  Pull requests 1  Projects 0  Wiki  Insights
-fundargerdir
-/
-2018
-/
-framkvaemdarad
-/
-Fundur framkvæmdaráðs25.10.2019
-@elinpirati elinpirati Rename 25.10.2019 to Fundur framkvæmdaráðs25.10.2019
-b760252 an hour ago
-147 lines (92 sloc)  9.8 KB
-    
 ### Fundur framkvæmdaráðs
-mánudaginn 25. mars 2018 
-klukkan 18:00-19.:30 (90 mín)
+       mánudaginn 25. mars 2018 
+       klukkan 18:00-19.:30 (90 mín)
 
 Fundurinn fer fram í Tortuga, Síðumúla 23 (Selmúlamegin), í Reykjavík. 
 
@@ -32,8 +8,7 @@ Mætt eru: Pétur Óli Þorvaldsson, Valgerður Árnadóttir, Ásmundur Alma Gu�
 
 Í fjarfundi: Jónas Lövdal, Rúnar Björn Herrera Þorkelsson.
 
-
-### Dagskrá:
+#### Dagskrá:
 
 
 *1.Kosning fundarstjóra og fundarritara*
@@ -47,7 +22,7 @@ Fundur samþykkir
 
 *2. Yfirferð og samþykkt fundargerðar*
 
-*3. Dagskrárbreytingartillögur*
+3. Dagskrárbreytingartillögur 
 
 *4. Framsaga starfsmanns þingflokks*
 
@@ -67,7 +42,8 @@ Varðandi skjölun á gögnum frá framkvæmdaráði þá er til umræðu að vi
 Jónas nefnir að hægt sé að vista þetta á x.piratar.is til þess að vista fundargögn fyrir félagsfólk að komast í og vinnugögn fyrir komandi framkvæmdaráð. 
 
 
-*6. Stöðuskýrsla frá framkvæmdastjóra*
+
+*6. Framkvæmdastjóri fer yfir störf starfsfólks*
 Vinna við vefsíðu
 Verið er að þróa „style guide” fyrir vefsíðuna. Drög að honum verða sýnd á fundinum.
 Pítsameðmæli Ungra Pírata
@@ -79,88 +55,68 @@ Skipulögð er vikuleg upptaka á Podcasti og stefnt er að því að það birt
 Nefnd um heildarlög um stjórnmálasamtök
 Forsætisráðherra tilnefndi fulltrúa allra flokka á þingi í nefnd um gerð heildaralaga um stjórnmálasamtök. Gert er ráð fyrir að vinnan taki ár og er hún nú að hefjast. Að mestu er þetta sama fólk og sat í nefnd um endurskoðun á fjármálum stjórnmálaflokka sem skilaði af sér í fyrra.
 
-Framfarafundur
+*Framfarafundur*
 Er að reyna að finna tíma fyrir framfarafund.
 Mánudagur eða fimmtudagur eftir klukkan 20:00 hentar sveitarstjórnastiginu best.
 
 
-Samráðsfundir
+*Samráðsfundir*
 Stefnt að því að taka aftur upp samráðsfundi og þeir haldnir fyrsta sunnudag hvers mánaðar milli klukkan 12 og 14 í Tortuga. Samkvæmt þessu er næsti fundur sunnudaginn 7. apríl.
 Ekkert er í lögum Pírata um samráðsfundina. Fundaform var þannig að orðið var frjálst - engin dagskrá - og fólk mátti tala að hámarki í tvær mínútur í senn.
 Á samráðsfundi mæta 1-2 fulltrúar frá hverri „deild”, s.s. hverju aðildarfélagi, frá framkvæmdaráði, borgarstjórnarflokki, o.s.frv.
 
-Vöfflukaffi
+
+*Vöfflukaffi*
 Tveir Píratar voru duglegir að halda vöfflukaffi hér um nokkurra vikna skeið og var þara vel mætt. Báðir þessir Píratar eru erlendis.
 Hugmynd að halda vöfflukaffi í framhaldi af samráðsfundum. Þá eru þegar margir í húsi úr ólíkum áttum og almennir félagsmenn boðnir velkomnir
 
-Fjarfundarbúnaður
+
+*Fjarfundarbúnaður*
 Hef verið að skoða hvort Nextcloud hentar sem fjarfundarbúnaður fyrir framkvæmdaráð.
 
-Viðburðir í Tortuga
-Mikið um að vera í Tortuga og afar fjölbreytilegir fundir á dagskrá á næstunni. Mun í næsta fréttabréfi minna á hvernig skal bóka fundi í Tortuga sem og húsreglur, og hvar þessar upplýsingar er að finna.
 
-Persónuvernd - Verið að vinna í gögnum vegna upplýsingabeiðni 
+*Viðburðir í Tortuga*
+Mikið um að vera í Tortuga og afar fjölbreytilegir fundir á dagskrá á næstunni. Mun í næsta fréttabréfi minna á hvernig skal bóka fundi í Tortuga sem og húsreglur, og hvar þessar upplýsingar er að finna
 
-Vinnslusamningar í vinnslu 
+*Persónuvernd*
+Hefur unnið að svari til Persónuverndar vegna frumkvæðisathugunarinnar 
 
-Andlát félaga
-Kristján Steinarsson sem tók virkan þátt í starfi Pírata og tók þátt í rekstri fyrstu kosningamiðstöðvar flokksins er fallinn frá. Hann verður jarðsunginn frá Lindakirkju 1. apríl. Félagsfólk óskaði eftir því að Píratar sendu krans og ég er í sambandi við Þórgný sem fer með krans frá okkur í kirkjuna.
-
-Nefnd um heildarlög um stjórnmálaflokka
-Nefndin er að hefja störf, formlegt erindisbréf er í póstinum. Gert er ráð fyrir fundum alla fimmtudagsmorgna milli klukkan 10 og 11 í forsætisráðuneytinu og að vinnan taki tæpt ár.
-
-Úr drögum að erindisbréfi:
-Lög um fjármál stjórnmálasamtaka og frambjóðenda og um upplýsingaskyldu þeirra (aukið gagnsæi í stjórnmálum, framlög, birting ársreikninga o.ofl.)  voru endurskoðuð á síðasta ári, sbr. lög nr. 139 21. desember 2018.  Heildarlög um stjórnmálasamtök eru hins vegar engin til, en breyttir tímar og nýtt lagaumhverfi sem varðar starfsaðstæður, rekstur og verkefni stjórnmálaflokka kalla á að heildarlög verði sett.
-Markmið slíkra laga væri að skapa skýra lagaumgjörð um starfsemi stjórnmálasamtaka, svo sem um stofnun og skráningu, slit stjórnmálasamtaka og fjárhagslegt uppgjör við slit þeirra o.fl. Jafnframt er markmiðið með slíkum lögum að efla enn frekar lýðræðisleg vinnubrögð og gagnsæi í störfum stjórnmálasamtaka, tryggja sjálfstæða og lýðræðislega starfsemi þeirra og óheftan aðgang almennings að virku starfi stjórnmálasamtaka. Meðal annars þarf að kanna hvort tilefni og forsendur séu til að innleiða sérákvæði varðandi Persónuverndarlög  frá ýtrustu kröfum Persónuverndarlaga þegar kemur að starfsemi stjórnmálasamtaka til að tryggja að félagar geti tekið þátt í starfi stjórnmálasamtaka eins og þeir vilja.
-Nefnd sem vann að lögum um fjármál stjórnmálasamtaka og framjóðenda sem samþykkt voru í desember sl. lagði til að breytingu á lögum til að koma í veg fyrir nafnlausan áróður og auglýsingar. Þær breytingar urðu á lögunum að stjórnmálasamtökum, kjörnum fulltrúum þeirra og frambjóðendum, sem og frambjóðendum í persónukjöri, er óheimilt að fjármagna, birta eða taka þátt í birtingu efnis eða auglýsinga í tengslum við stjórnmálabaráttu nema fram komi við birtingu að efnið sé birt að tilstuðlan eða með þátttöku þeirra.  Þetta er þó ekki nóg, áfram þarf að vinna að því að finna leiðir til að takast á við nafnlausan áróður og auglýsingar, ekki aðeins frá stjórnmálasamtökum sem slíkum og kjörnum fulltrúum þeirra, heldur einnig frá almennum félagsmönnum stjórnmálasamtaka og frá einstaklingum og félagasamtökum annarra en stjórnmálasamtaka.
-Eftirtaldir fulltrúar skipa nefndina:
-Björg Eva Erlendsdóttir, framkvæmdastjóri Vinstrihreyfingarinnar - græns framboðs
-Þórður Þórarinsson, framkvæmdastjóri Sjálfstæðisflokksins.
-Helgi Haukur Hauksson, framkvæmdastjóri Framsóknarflokksins.
-Karen Kjartansdóttir, framkvæmdastjóri Samfylkingarinnar.
-Fjóla Hrund Björnsdóttir, starfsmaður þingflokks Miðflokksins
-Erla Hlynsdóttir, framkvæmdastjóri Pírata.
-Birna Þórarinsdóttir, (Jenný Guðrún Jónsdóttir)  framkvæmdastjóri Viðreisnar.
-Magnús Þór Hafsteinsson, ritari þingflokks Flokks fólksins.
-Ágúst Geir Ágústsson, skrifstofustjóri í forsætisráðuneytinu.  
-Fulltrúi dómsmálaráðuneytis?
-Starfsmaður nefndarinnar verður  Ásgerður Snævarr, lögfræðingur í forsætisráðuneytinu.
-
-Persónuvernd
-Hefur unnið að svari til Persónuverndar vegna frumkvæðisathugunarinnar sem getið er hér að ofan.
-
-Breytingar á Tortuga
+*Breytingar á Tortuga*
 Er að leita að iðnaðarmanni til að taka að sér smávægilegar breytingar.
 
-Bókhald og hefðbundin skrifstofustörf
+*Bókhald og hefðbundin skrifstofustörf*
 
-Heimasíða
-Vinna við gerð nýrrar heimasíðu. Er að þróa Style Guide sem hún getur kynnt fyrir framkvæmdaráði á næsta fundi, eftir tvær vikur.
+*Heimasíðugerð -Vinna kynnt á næsta fundi framkvæmdaráðs*
 
-Sendi litakóða á framkvæmdaráð. Berglind er að vinna að heimasíðunni og útlit hennar. Berglind kemur á næsta fund framkvæmdaráðs til þess að kynna vinnu sína betur. 
-
-Samfélagsmiðlar
+*Samfélagsmiðlar*
 Hefur verið, ásamt starfsmanni þingflokks, að vinna að kynningu á samfélagsmiðlum fyrir kjörna fulltrúa sem haldin verður á sérstökum vinnudegi á næstunni.
 
-Páskapönk - Er í skipulagningu. Verður á föstudaginn langa að venju
+Samhæfa þarf verkferla og upplýsingaflæði milli hreyfingarinnar  og þingflokks
+
+
+*Staða verkefna vegna viðburða eða félagsstarfs* 
+
+Framfarafundur
+Verið er að finna tíma fyrir framfarafund.
+Samráðsfundur 
+Er í vinnslu að vera fjórða hvern mánudag. Sjá að ofan. 
+Páskapönk - Verðu haldið föstudaginn langa að venju og er í skipulagningu. Ungir Píratar sendu beiðni um fjárframlag sem var vísað til framkvæmdastjóra
 
 Aðalfundur - Aðalfundur hefur verið í vinnslu hjá starfsfólk annars vegar og hjá Elínu og Unnari hins vegar. Starfsfólk er að sjá um að bóka húsnæði. 
 
-*6. Erindi frá félagsfólki til kynningar* - Frestað til næsta fundar
+*6. Erindi frá félagsfólki til kynningar - FRESTAÐ* 
 Sent var erindi til framkvæmdaráðs varðandi skipulag á framkvæmdaráði og myndun starfsfhóps um yfirferð á skipulagi og lögum félagsins (Sjá tölvupóst sendan framkvæmdaráði 22.mars 2019). 
 
-*7. Áheyrnarfulltrúar aðildarfélaga* - Frestað 
+**7. Áheyrnarfulltrúar aðildarfélaga - FRESTAÐ 
 Þingflokkur Pírata hefur verið áheyrnarfulltrúa frá hverju aðildarfélagi til þess að tryggja upplýsingaflæði og veita aðgengi að þingflokknum. Lögð er fram tillaga að framkvæmdaráð fari sömu leið og auglýsi eftir áheyrnarfulltrúum frá öllum aðildarfélögunum. Sömu reglur munu gilda yfir áheyrnarfulltrúa hjá framkvæmdaráði og hjá þingflokki. 
 
 Greitt með: 
 Greitt á móti: 
 Setið hjá: 
 
-#### Öðrum málum frestað 
+*Öðrum málum frestað* 
 
-#### Fundi slitið kl.18.20
-
-
+#### Fundi slitið kl.19.20 
 
 
 
@@ -168,15 +124,13 @@ Setið hjá:
 
 
 
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
+
+
+
+
+
+
+
+
+
