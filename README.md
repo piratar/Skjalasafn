@@ -16,8 +16,9 @@ Markmið með opnu bókhaldi Pírata er að vera til fyrirmyndar í þeim málum
 
 Opið bókhald tryggir gegnsæ vinnubrögð. Félagsmenn geta þannig fylgst með hvað stjórnendur félagsins eru að framkvæma. Þetta er hvati til að taka upplýstar ákvarðanir um notkun fjármuna félagsins.
 
-Píratar fylgja að sjálfsögðu lögum [162/2006](https://www.stjornartidindi.is/Advert.aspx?RecordID=c408f739-0677-460b-958b-4d67088d2c2c) um fjármál stjórnmálasamtaka og leiðbeiningum Fjármálaráðuneytisins til stjórnmálaflokka.
+Píratar fylgja að sjálfsögðu lögum [162/2006](https://www.stjornartidindi.is/Advert.aspx?RecordID=c408f739-0677-460b-958b-4d67088d2c2c) um fjármál stjórnmálasamtaka og leiðbeiningum Fjármálaráðuneytisins til stjórnmálaflokka svo og lögum [90/2018] (https://www.stjornartidindi.is/Advert.aspx?RecordID=55860204-b174-41c8-bf50-7f36e88eb051)  um persónuvernd og vinnslu persónuupplýsinga
 
+* [https://github.com/piratar/fundargerdir/upload/master/2018/opidbokhald]
 * [2017 Ársreikningur-PáNA glærusýning](https://github.com/piratar/fundargerdir/blob/master/2017/%C3%81rsreikningur-P%C3%A1NA.pdf)
 
 ### Ársreikningar
