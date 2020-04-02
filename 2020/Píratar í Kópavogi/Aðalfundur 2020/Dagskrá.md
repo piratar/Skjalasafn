@@ -6,22 +6,18 @@ Aðalfundur Pírata í Kópavogi verður haldinn þann 4. Apríl 2020 klukkan [1
 
 ------- https://jitsi.piratar.is/AdalPiratarKop -----------
 
-Dagskrá:
+## Dagskrá:
 
-Kosning fundarstjóra og fundarritara
-
-Skýrsla stjórnar lögð fram
-
-Reikningar lagðir fram til samþykktar
-
-Lagabreytingar
-
-Kosning stjórnar og varamanna
+* Kosning fundarstjóra og fundarritara
+* Skýrsla stjórnar lögð fram
+* Reikningar lagðir fram til samþykktar
+* Lagabreytingar
+* Kosning stjórnar og varamanna
 
 Kosning í önnur embætti samkvæmt lögum Pírata í Kópavogi
 Stofnun Kjördæmafélags Suðvesturkjördæmi. Lagt er til að fundurinn samþykki heimild til að boða til auka-aðalfundar um málefni Suðvesturkjördæmis gerist þess þörf
 
-Önnur mál
+## Önnur mál
 
 Tillögur til lagabreytinga má nálgast hér: https://github.com/piratar/log.piratar.is/blob/master/k%C3%B3pavogur/Lagabreytingatillaga%202020.md
 
