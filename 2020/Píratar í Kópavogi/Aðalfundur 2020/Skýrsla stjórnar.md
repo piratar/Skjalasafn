@@ -21,6 +21,8 @@ Stefna Pírata í Kópavogi sem stjórn setti saman er eftirfarandi:
 
 Þó nokkur hópur sinnir núna nefndarstörfum og hefur stjórn gert það að hlutverki sínu að hópurinn hittist reglulega ásamt stjórn og kjörnum fulltrúum til að ræða málefni sem eru til umræðu í nefndum og upplýsa aðra nefndarfulltrúa um hvað liggur fyrir í stjórnsýslunni.  Einnig hafa fundirnir verið nýttir til að ræða það sem aðrar einingar Pírata eru að gera.  Á tímabilinu hefur einnig verið haldið hópefli til að hrista hópinn saman.
 
+Töluverður árangur hefur orðið af nefndarstarfi Pírata í Kópavogi og ýmis mál lögð fram.  Jafnréttisáætlun Kópavogs endurspeglar nánast orðrétt stefnu Pírata í Kópavogi um einelti. Friðhelgi og myndavélar í skólum voru jafnframt tekin föstum tökum.  Fleiri mál hafa verið lögð fram tam Ókeypis almennigssamgöngur í Kópavogi, flokkunartunnur á fjölförnum stöðum og umgengi verktaka um gangséttar til að tryggja aðgengi fyrir alla.
+
 Píratar í Kópavogi fóru í öllu eftir nýjum lögum og tilmælum um að skrá raunverulega eigendur og gerðu það áður en frestur til þess rann út.  Í samræmi við tillögu framkvæmdastjóra Pírata var stjórn skráð eigandi og formaður stjórnar skráður raunverulegur eigandi.
 
 Í kjölfarið á samgöngusáttmálanum á höfuðborgarsvæðinu kom upp ágreiningur milli kjörinna fulltrúa í kjölfarið var óskað aðstoðar fagmanna við að gera samskipti milli Pírata í Kópavogi skilvirkari.  Jafnframt settu Píratar í Kópavogi Samgögnusáttmálan í kosningu félagsmanna, einir flokka, þar sem félagsmenn höfnuðu honum.  Píratar í Kópavogi sendu jafnframt fulltrúa á stofnfund Pírata í Norðvesturkjördæmi sem tókst afar vel.
