@@ -13,9 +13,8 @@ Aðalfundur Pírata í Kópavogi verður haldinn þann 4. Apríl 2020 klukkan [1
 * Reikningar lagðir fram til samþykktar
 * Lagabreytingar
 * Kosning stjórnar og varamanna
-
-Kosning í önnur embætti samkvæmt lögum Pírata í Kópavogi
-Stofnun Kjördæmafélags Suðvesturkjördæmi. Lagt er til að fundurinn samþykki heimild til að boða til auka-aðalfundar um málefni Suðvesturkjördæmis gerist þess þörf
+* Kosning í önnur embætti samkvæmt lögum Pírata í Kópavogi
+* Stofnun Kjördæmafélags Suðvesturkjördæmi. Lagt er til að fundurinn samþykki heimild til að boða til auka-aðalfundar um málefni Suðvesturkjördæmis gerist þess þörf
 
 ## Önnur mál
 
