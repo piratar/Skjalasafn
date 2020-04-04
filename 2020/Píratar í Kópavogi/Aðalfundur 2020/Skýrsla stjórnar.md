@@ -23,7 +23,7 @@ Stefna Pírata í Kópavogi sem stjórn setti saman er eftirfarandi:
 
 Píratar í Kópavogi fóru í öllu eftir nýjum lögum og tilmælum um að skrá raunverulega eigendur og gerðu það áður en frestur til þess rann út.  Í samræmi við tillögu framkvæmdastjóra Pírata var stjórn skráð eigandi og formaður stjórnar skráður raunverulegur eigandi.
 
-Í kjölfarið á samgöngusáttmálanum á höfuðborgarsvæðinu kom upp ágreiningur milli kjörinna fulltrúa í kjölfarið var óskað aðstoðar fagmanna við að gera samskipti milli Pírata í Kópavogi skilvirkari.  Píratar í Kópavogi sendu jafnframt fulltrúa á stofnfund Pírata í Norðvesturkjördæmi sem tókst afar vel.
+Í kjölfarið á samgöngusáttmálanum á höfuðborgarsvæðinu kom upp ágreiningur milli kjörinna fulltrúa í kjölfarið var óskað aðstoðar fagmanna við að gera samskipti milli Pírata í Kópavogi skilvirkari.  Jafnframt settu Píratar í Kópavogi Samgögnusáttmálan í kosningu félagsmanna, einir flokka, þar sem félagsmenn höfnuðu honum.  Píratar í Kópavogi sendu jafnframt fulltrúa á stofnfund Pírata í Norðvesturkjördæmi sem tókst afar vel.
 
 Hafinn er undirbúningur fyrir stofnun kjördæmafélags fyrir suðvesturkjördæmi og munu Píratar í Kópavogi taka fullann þátt í þeirri vinnu, einnig er hafinn undirbúningur fyrir kosningar og munum við jafnframt taka fullann þátt í þeim undirbúningi.
 
