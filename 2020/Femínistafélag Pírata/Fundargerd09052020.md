@@ -1,7 +1,12 @@
+
 Aðalfundur feministafélags Pírata
+
 Laugardagur 9. maí 2020 
+
 klukkan 13:30 til 16:00 
+
 Á internetinu (https://fundir.piratar.is/FemPir) 
+
 Fundur frestaður 26/1. Fundargerð: https://etherpad.pp-international.net/p/fempir
 
 Fundur settur að nýju þann 9. maí 2020 kl. 13.40
@@ -10,7 +15,8 @@ Reglur um mælendaskrá:
     X í chattið á https://fundir.piratar.is/FemPir
     Y ef þú vilt vera með andsvar 
 
-Dagskrá fundar
+**Dagskrá fundar**
+
 1. Kosning fundarstjóra og fundarritara    
 2. Erindi formanneskju: Skýrsla stjórnar lögð fram
 3. Ákveða form félagsins
@@ -24,6 +30,8 @@ Dagskrá fundar
 11. Erindi: Sigrún Bragadóttir - þörf feminismans - hver eru næstu skref?
 
 Mætt eru: (ef kosningar í gegnum fjarfundinn þarf þetta) 
+
+**Fundargerð**
 
 1. Kosning fundarstjóra og fundarritara
 =====
