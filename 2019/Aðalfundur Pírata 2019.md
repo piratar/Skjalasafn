@@ -1,4 +1,85 @@
  ## Aðalfundur Pírata 2019 - Fundargerð
+31. júlí til 1. september 2019.
+Haldinn í sal Garðyrkjufélags Íslands, Síðumúla 1, 105 Reykjavík.
+
+### DAGSKRÁ
+**LAUGARDAGUR**
+
+10:00 Húsið opnar. Léttur morgunverður í boði Pírata 
+
+10:50 Fundur settur / fundarstjóri kynnir dagskrá
+
+11:00  Opnunarræða: Eva Pandora Baldursdóttir
+
+11:10  Kynning á smiðjum 
+
+11:30  Smiðjustarf
+
+12:30  Hádegisverður í boði Pírata / Súpa, brauð og salat.
+
+13:30  Smiðjustarf
+
+14:00  KOSNINGAR: Slembivalið í framkvæmdaráð.
+
+14:15  Smiðjustarf
+
+15:00  Kaffihlé
+
+15:30  Kynning á frambjóðendum til framkvæmdaráðs, úrskurðarnefndar, 
+ kjörstjórnar og skoðunarmanna reikninga.
+
+16:15 Kosning hefst á x.piratar.is
+
+16:15  Kynningar: Kynning á félagsstarfi og fundum flokksins í vetur: Pírataskólinn, Grasrótarinn,, UP: Framtíðin og Ungir Píratar
+
+17:00  Leynigestur
+
+17:30  Fundi frestað
+
+20:00 Skemmtidagskrá í húsnæði Garðyrkjufélagsins.
+01:00 Húsið lokar
+ 
+**SUNNUDAGUR**
+
+10:45  Húsið opnar. Léttur morgunverður í boð Pírata
+
+11:15  Fundur settur / fundarstjóri kynnir dagskrá
+
+11:30  Smiðjustarf: Kynning á niðurstöðum 
+
+12:30  Hádegisverður. Pálínuboð (Potluck party).
+
+13:30  Smiðjustarf: Kynning á niðurstöðum
+
+14:00  Framtíðin á Íslandi: Þingflokkur Pírata
+
+14:15  Framtíðin í Reykjavík: Dóra Björt Guðjónsdóttir og Sigurborg Ósk Haraldsdóttir
+
+14:25  Framtíðin í Kópavogi: Sigurbjörg Erla Egilsdóttir
+
+14:35  Framtíðin á landsbyggðinni
+
+14:50 Kaffihlé
+
+15:15 Árskýrsla framkvæmdaráðs: Rúnar Björn Herrera, 
+
+Ársreikningur framkvæmdaráðs: Unnar Þór gjaldkeri framkvæmdaráðs. Spurt og svarað.
+
+16:00:  Kynningar: Vetrardagskrá PírataTV og Hlaðvarp Pírata kynnt, kynning á nýrri vefsíðu Pírata,
+
+16:15 Kosningu lýkur á x.piratar.is
+
+KOSNINGAR: Úrslit kosninga kynnt
+
+16:35  Kynningar: Kynning á nýju skráningarformi viðburða í Tortuga, kynning á Jitsi-Meet fjarfundarkerfi Pírata, kynning á streymislausnum aðildarfélaga Pírata
+
+16:50  Samantekt frá fundarstjóra/viðburðarstjóra
+
+17:15  Þökkum sjálfboðaliðum okkar, Heiðursdagskrárliður tileinkuð sjálfboðaliðum flokksins. Lokaræða: Sjálfboðaliði á lokaorð kvöldsins
+
+17:30  Fundi slitið
+
+ 
 
 ### LAUGARDAGUR
 **1.	10:50 Fundur settur / fundarstjóri kynnir dagskrá**
