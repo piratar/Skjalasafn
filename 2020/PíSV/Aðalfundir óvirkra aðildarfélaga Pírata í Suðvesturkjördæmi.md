@@ -68,3 +68,59 @@ Samþykkt einróma.
 
 *Fundi slitið kl 13:28*
 
+### Fundarboð
+
+Sent á félagatöl allra aðildarfélaga innan Suðvesturkjördæmis þann 27. maí
+
+
+Boðað er til aðalfundar Pírata í Hafnarfirði, Pírata í Mosfellsbæ og Pírata á Seltjarnarnesi,  laugardaginn 20. Júní kl 13:00-15:00 – þar sem eina málið sem boðað er til er slit félagsins.
+
+Vegna Covid-19 verður fundurinn eingöngu haldinn í fjarfundi á > <https://fundir.piratar.is/PíSuV>
+
+ 
+
+Fundurinn er blandaður fundur þar sem fyrst verður haldinn aðalfundur Pírata í Hafnarfirði, næst aðalfundur Pírata í Mosfellsbæ og loks aðalfundur Pírata á Seltjarnarnesi.
+
+Sé nægur áhugi getur aðalfundur skipað ábyrgðaraðila fyrir stofnun félagsdeildar sem heldur utan um ferlið fyrir sitt starfssvæði (sveitarfélag). Ef ekki verður skv. nýjum lögum PíSuV hægt að stofna slíkar félagsdeildir síðar.
+
+Verði tillaga um slit ekki samþykkt verður fundinum frestað og önnur venjuleg aðalfundarstörf tekin fyrir á framhaldsfundi.
+
+Áburgðaraðili fundanna er Elsa Kristjánsdóttir, framkvæmdastjóri Pírata. Fyrirspurnir sendist á [framkvaemdastjori@piratar.is](mailto:framkvaemdastjori@piratar.is)
+
+ 
+
+### Dagskrá
+
+**Aðalfundur Pírata í Hafnarfirði**
+
+1\. Kosning fundarstjóra og fundarritara
+
+2\. Skýrsla stjórnar lögð fram
+
+3\. Reikningar lagðir fram til samþykktar
+
+4\. Tillaga um að félagið skuli lagt niður og breytt í félagsdeild innan Pírata í Suðvesturkjördæmi
+
+ 
+
+**Aðalfundur Pírata í Mosfellsbæ**
+
+1\. Kosning fundarstjóra og fundarritara
+
+2\. Skýrsla stjórnar lögð fram
+
+3\. Reikningar lagðir fram til samþykktar
+
+4\. Tillaga um að félagið skuli lagt niður og breytt í félagsdeild innan Pírata í Suðvesturkjördæmi
+
+ 
+
+**Aðalfundur Pírata á Seltjarnarnesi**
+
+1\. Kosning fundarstjóra og fundarritara
+
+2\. Skýrsla stjórnar lögð fram
+
+3\. Reikningar lagðir fram til samþykktar
+
+4\. Tillaga um að félagið skuli lagt niður og breytt í félagsdeild innan Pírata í Suðvesturkjördæmi
