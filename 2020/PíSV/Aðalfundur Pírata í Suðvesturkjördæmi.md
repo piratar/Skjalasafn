@@ -54,7 +54,83 @@ Sigurbjörg Erla Egilsdóttir
  
  Framhaldsfundur ákveðinn 1. júlí í Tortuga - sér fundarboð fyrir framhaldsfund verður sent á félagatal.
  
- ### Lög Pírata í Suðvesturkjördæmi
+ ## Framhalds-aðalfundur Pírata í Suðvesturkjördæmi
+ 
+Miðvikudaginn 1. júlí kl 17:00
+
+Tortuga, Síðumúla 23
+
+*Fundur settur kl. 13:10*
+
+Mætt: 
+
+Elsa Kristjánsdóttir
+ 
+Lárus Vilhjálmsson
+
+Iva Adrichem
+
+Indriði Ingi Stefánsson
+
+Björn Þór Jóhannesson
+
+Jón Þór Ólafsson
+ 
+Svafar Helgason
+
+Guðmundur Arnar Guðmundsson
+
+Bjartur Thorlacius
+
+1. Kosning fundarstjóra og fundarritara
+
+Elsa Kristjánsdóttir stýrir fundi og ritar fundargerð.
+
+2. Frambjóðendur til stjórnar og kjördæmisráðs kynna sig/almennar umræður
+
+*Í framboði til stjórnar eru:*
+
+Indriði Ingi Stefánsson
+
+Iva Adrichem
+
+LárusVilhjálmsson
+
+Haraldur R. Ingvason
+
+*Í framboði til kjördæmisráðs er:*
+Bjartur Thorlacius
+
+3. Umræður um verklag við kosningar 2021
+
+
+4. Úrslit kosninga kynnt
+
+*Í stjórn voru kjörin:*
+
+Iva Marín Adrichem  
+
+Lárus Vilhjálmsson
+
+Indriði Ingi Stefánsson
+
+Haraldur R Ingvason
+
+*Í kjördæmisráð var kjörinn:*
+
+Bjartur Thorlacius
+
+Þar sem ekki náðust fleiri framboð til kjördæmisráðs kemur það í hlut nýrrar stjórnar PíSuV að skipa þau tvö sæti sem uppá vantar.
+
+*Skoðunaraðili: Engin framboð*
+
+4. Skálað fyrir nýrri stjórn
+
+Fundi slitið kl 18:15
+ 
+ ---
+
+## Lög Pírata í Suðvesturkjördæmi
  
 **Greinargerð**
 1. Gr.
