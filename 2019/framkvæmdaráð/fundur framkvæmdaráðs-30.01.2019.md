@@ -10,14 +10,22 @@ Fundargestir: Róbert Ingi Douglas, Berglind Jónsdóttir, Erla Hlynsdóttir, Ha
 
 ### Dagskrá: 
 
-1.Setning fundarstjóra og ritara
+1. Setning fundarstjóra og ritara
+
 2. Dagskrárbreytingartillögur 
+
 3. Kynning á vinnu Atla Þórs Fanndal, fyrrum kosningaráðgjafi Pírata í sveitarstjórnarkosningum 2018. 
+
 4. Mannauðsmál - trúnaðarmál 
+
 5. Fjármagn til aðildarfélaga 
+
 6. Áheyrnarfulltrúi þingflokks 
+
 7. Ráðning starfsfólks 
+
 8. Aukaaðalfundur - skipulag 
+
 9. Önnur mál 
 
 #### Setning fundarstjóra og ritara - Elín Ýr býður sig fram sem ritara og Pétur Óli sem fundarstjóri. 
@@ -32,7 +40,7 @@ Fundur samþykkir
 #### Fjármagn til aðildarfélaga - Fjármagn til aðildarfélaga, Píratar á Norðausturlandi, Ungir Píratar, Píratar á Suðurlandi og Píratar á Suðurnesjum og Píratar í Kópavogi að upphæð 400.000 kr. 
 Samþykkt með öllum greiddum atkvæðum.
 
-####Framkvæmdaráð tilnefnir áheyrnarfulltrúa þingflokks í stað Valgerðar Árnadóttur. Áheyrnarfulltrúi hjá þingflokki frá framkvæmdaráði verður Unnar Þór Sæmundsson. Til vara er Ásmundur Alma Guðjónsson.
+#### Framkvæmdaráð tilnefnir áheyrnarfulltrúa þingflokks í stað Valgerðar Árnadóttur. Áheyrnarfulltrúi hjá þingflokki frá framkvæmdaráði verður Unnar Þór Sæmundsson. Til vara er Ásmundur Alma Guðjónsson.
 Samþykkt með öllum greiddum atkvæðum
 
 A.Framkvæmdaráð hefur ákveðið að ráða Hans Benjamínsson sem skrifstofustjóra að loknu ráðningarferli og auglýsingu þar um. Starf hefst 1.mars. 
