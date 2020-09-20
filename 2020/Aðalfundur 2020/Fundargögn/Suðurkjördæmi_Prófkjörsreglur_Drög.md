@@ -1,6 +1,6 @@
 ## Prófkjörsreglur Prófkjörsreglur PÍSK 2021 DRÖG
 
-*ATH: Þessi drög eru með fyrirvara um staðfestingu í vefkosningu Pírata í Suðurkjördæmi og hugsanlegri samsetningu kjördæmisráðs fyrir Suðurkjördæmi.*
+*ATH: Þessi drög eru birt með fyrirvara um staðfestingu í vefkosningu Pírata í Suðurkjördæmi og hugsanlegri samsetningu kjördæmisráðs fyrir Suðurkjördæmi.*
 
 
 ### Reglur um prófkjörshald Pírata í Suðurkjördæmi
@@ -11,7 +11,7 @@ Fyrir Alþingiskosningar 2021 fylgja Píratar í Suðurkjördæmi eftirfarandi p
 #### Skráning á prófkjörslista Pírata:
 
 - Allir einstaklingar sem skráðir eru í Pírata, lögheimili (kosningarétt) í Suðurkjördæmi og kjörgengir til Alþingiskosninga skv. landslögum geta boðið sig fram á prófkjörslista í Suðurkjördæmi.
-- Frestur til skráningar í Pírata, til að geta greitt atkvæði í prófkjöri rennur út 30 dögum fyrir lok prófkjörs, sem sagt kl. nákvæmur tími og dagsetning.  
+- Frestur til skráningar í Pírata, til að geta greitt atkvæði í prófkjöri rennur út 30 dögum fyrir lok prófkjörs, sem sagt kl. (nákvæmur tími og dagsetning).  
 - Frestur til skráningar á prófkjörslista er til kl. nákvæmur tími og dagsetning..
 - Við skráningu á prófkjörslista skal skila upplýsingum um nafn, kennitölu, starf/stöðu, mynd af viðkomandi, yfirlýsingu um samþykkt á siðareglum Suðurkjördæmis, auk málefna- og persónulýsingar sem getur verið 50-100 orð og verður birt á x.piratar.is.
 - Skráning á prófkjörslista skal berast bæði á sudurkjordaemi@piratar.is og í vefkosningakerfið x.piratar.is (opnað verður fyrir skráningu viku áður en prófkjör hefst).
