@@ -32,10 +32,11 @@
 
 16:00 Kosningar byrja
 
+16:15 Hlé
+
 16:45 Kahoot Partí
 
 ### Sunnudagur 27. september
-
 
 13:00 Fundur settur
 
@@ -49,7 +50,7 @@
 
 13:55 Orðið frjálst
 
-14:15 Kynning á stefnumótunarferli
+14:15 Erindi frá Pírötum á Suðurlandi
 
 14:25 Hlé
 
@@ -71,7 +72,9 @@
 
 16:05 Lokaræða
 
-16:10 Fundi slitið
+16:15 Fundi slitið
+
+
 
 ----
 ### Leiðbeiningar fyrir snjallsíma:
