@@ -1,3 +1,4 @@
+***Fyrirspurnir og tillögur varðandi prófkjörsreglur sendist á reykjavik@piratar.is***
 
 **Prófkjörsreglur Pírata í Reykjavík fyrir alþingiskosningar í september 2021**\
 Reglur fyrir prófkjörið og skyldur frambjóðenda í því sambandi. 
