@@ -1,3 +1,5 @@
+***Fyrirspurnir og tillögur varðandi prófkjörsreglur sendist á sudvestur@piratar.is***
+
 ## Prófkjör Pírata í Suðvesturkjördæmi
 
 *15 febrúar til   22. mars. *dagsetningar óstaðfestar*
