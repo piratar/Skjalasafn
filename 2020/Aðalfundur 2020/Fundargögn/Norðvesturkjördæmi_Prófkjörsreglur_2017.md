@@ -1,3 +1,5 @@
+***Fyrirspurnir og tillögur varðandi prófkjörsreglur sendist á pink@piratar.is***
+
 **Tilkynning um prófkjör:**
 
 Prófkjör Pírata í Norðvesturkjördæmi mun fara fram dagana 23. til 30. September
