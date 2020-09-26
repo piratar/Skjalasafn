@@ -1,3 +1,5 @@
+***Fyrirspurnir og tillögur varðandi prófkjörsreglur sendist á nordausturland@piratar.is***
+
 Tilkynning til félagsmanna Pírata vegna prófkjörs til alþingiskosninga í
 Norðausturkjördæmi 2017.
 
