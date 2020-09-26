@@ -1,3 +1,5 @@
+***Fyrirspurnir og tillögur varðandi prófkjörsreglur sendist á sudurkjordaemi@piratar.is***
+
 ## Prófkjörsreglur Prófkjörsreglur PÍSK 2021 DRÖG
 
 *ATH: Þessi drög eru birt með fyrirvara um staðfestingu í vefkosningu Pírata í Suðurkjördæmi og hugsanlegri samsetningu kjördæmisráðs fyrir Suðurkjördæmi.*
