@@ -1,3 +1,7 @@
 # Fundargerðir
 
-Píratar leggja mikið upp úr gegnsæi og upplýstri ákvarðanatöku. Þess vegna eru allir fundir framkvæmdaráðs opnir, nema annað sé sérstaklega tekið fram. Einnig eru fundargerðir ráðsins aðgengilegar til þess að tryggja að rökstuðningur sé til staðar fyrir þeim ákvörðunum sem teknar eru.
+Hér er að finna fundargerðir Pírata. Athygli skal vakin á því að framkvæmdastjórn hét áður framkvæmdaráð.
+
+Ákvæði í lögum Pírata um fundargerðir:
+* 7.9. Halda skal fundargerðir fyrir fundi stjórna, nefnda og ráða og skulu þær birtar innan mánaðar frá fundi.
+* 11.4. Aðildarfélagi ber að skila fundargerð aðalfundar, ársskýrslu og bókhaldsgögnum sínum til framkvæmdastjórnar. Hafi slík gögn borist fyrir lok júnímánaðar telst aðildarfélag vera virkt.
