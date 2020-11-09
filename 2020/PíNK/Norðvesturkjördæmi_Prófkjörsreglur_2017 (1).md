@@ -7,7 +7,7 @@ Prófkjör Pírata í Norðvesturkjördæmi mun fara fram dagana 1. til 15. mars
 **Reglur um prófkjör Pírata fyrir alþingiskosningar 2021 og skyldur frambjóðenda í prófkjöri Pírata í Norðvesturkjördæmi.**
 
 * Frambjóðandi skal vera skráður í Pírata.
-* Frambjóðandi skal tilkynna framboð með tölvupósti til kjördæmaráðs á kosning.pink@piratar.is. *TODO breyta*
+* Frambjóðandi skal tilkynna framboð með tölvupósti til kjördæmaráðs á kosning.pink@piratar.is. 
 * Frambjóðandi skráir sig einnig í prófkjörið á viðeigandi undirþingi í kosningakerfi Pírata á x.piratar.is.
 * Kosning hefst mánudaginn 1. mars 2021 kl. 14:00 og lýkur klukkan mánudaginn 15. mars 2021 kl. 14:00. 
   * Hafi 100 eða fleiri atkvæði verið greidd mánudaginn 15. mars 2021 kl. 14:00 telst prófkjöri lokið. Annars verður prófkjörið framlengt til mánudagsins 22. mars kl. 14:00 og öllum félagsmönnum Pírata boðið að greiða atkvæði.
@@ -17,18 +17,18 @@ Prófkjör Pírata í Norðvesturkjördæmi mun fara fram dagana 1. til 15. mars
 
 * Frambjóðendur í prófkjöri sýna öðrum frambjóðendum kurteisi og virðingu og koma fram af háttvísi, bæði í ræðu og riti.
 * Frambjóðendur gera kosninganefnd grein fyrir öllum þeim hagsmunum sem gætu skipt máli við framboðið.
-* Tilkynna þarf kosninganefnd um vafasöm atriði í sögu frambjóðanda sem gætu verið dregin fram í dagsljósið við framboð listans. *TODO umorða*
+* Frambjóðendur skulu upplýsa kosningnefnd um atvik eða aðstæður sínar sem gætu haft áhrif á framboð PíNK í opinberri umræðu, og starfa með þeim að lausn mála þegar við á.
 
 **Með framboðsskráningu samþykkir frambjóðandi að hann hafi kynnt sér eftirfarandi kvaðir sem fylgi framboðinu og samþykki þær**
 
-1. Frambjóðandi skal tilgreina í hvaða kjördæmi hann gefur kost á sér í titli og setja eftirfarandi upplýsingar á kynningarsíðu sína í kosningakerfinu (skv. landslögum til framboðs til Alþingis): *TODO hefur þetta breyst?*
+1. Frambjóðandi skal tilgreina í hvaða kjördæmi hann gefur kost á sér í titli og setja eftirfarandi upplýsingar á kynningarsíðu sína í kosningakerfinu (skv. landslögum til framboðs til Alþingis):
 
 * Nafn frambjóðanda
 * Kennitala
 * Staða eða starfsheiti
 * Heimili
 
-1. Frambjóðandi þarf að koma sömu upplýsingum til kosningarnefnd, ásamt símanúmeri og netfangi þar sem hægt sé að ná sambandi við hann í undirbúningi prófkjörs eða kosninga, en þær upplýsingar fara ekki með í opinbera kynningu. Póstfang kjördæmaráðs er kosning.pink@piratar.is.
+1. Frambjóðandi þarf að koma sömu upplýsingum til kosningarnefndar, ásamt símanúmeri og netfangi þar sem hægt sé að ná sambandi við hann í undirbúningi prófkjörs eða kosninga, en þær upplýsingar fara ekki með í opinbera kynningu. Póstfang kjördæmaráðs er kosning.pink@piratar.is.
 2. Frambjóðandi samþykkir með undirskrift endanlegt sæti á lista og gefur hann einnig samþykki fyrir umboðsmönnum listans. Þetta skal gert eigi síður en 4 dögum áður en frestur til að skila listanum rennur út, ellegar er heimilt að fella hann af lista.
 3. Með yfirlýsingu um framboð í prófkjöri í kosningakerfi Pírata telst frambjóðandi lýsa því yfir að hann hafi kjörgengi í Alþingiskosningum á Íslandi.
 4. Framboðslistum verður raðað samkvæmt úrslitum forgangskosningar með Schulze-aðferð eftir kosningu í kosningakerfi Pírata.
