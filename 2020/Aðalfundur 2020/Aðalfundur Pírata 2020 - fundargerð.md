@@ -225,18 +225,12 @@ Frambjóðendur í stefnu og málefnanefnd (sem kynntu sig): Eva Pandora, Mörð
 
 15:38 Vania Lopez frá frá Pírötum í Suðurkjördæmi með erindi
 
-Vania sagði frá stjórn sem í eru auk Vaniu, Hrafnkell Brimar, Albert Svan, Eyþór
-Máni og Guðmundur Arnar.
+Vania sagði frá stjórn sem í eru auk Vaniu, Hrafnkell Brimar, Albert Svan, Eyþór Máni og Guðmundur Arnar. 
 
-Félagið fékk fjárveitingu til að heimsækja öll stærri byggðarfélög í kjördæminu.
-Áform PÍSK um heimsóknir féll niður vegna covid-19 og í staðinn… fá ræðu frá
-Vaniu
+Félagið var stofnað 17. júní 2019 sem regnhlífarfélag yfir aðidarfélög Pírata í kjördæminu. Félagið fékk fjárveitingu til að heimsækja öll stærri byggðarfélög í kjördæminu. Árið 2019 var notað til skipulagsvinnu þar sem gerð var starfs- og fjárhagsáætlun fyrir árið 2020 sem gerði ráð fyrir viðburðum vítt og breytt um kjördæmið, en flest áform féllu því miður niður vegna covid-19 
 
-Tilbúin eru drög að lögum PÍSK á spjalli Pírata (í Suðurkjörædmi?), félagið hélt
-tvo viðburði í sumar og sumargrill og göngu um Reykjadal. Það er mikil spenna
-fyrir næstu kosningum, stjórnin samanstendur af góðu fólki sem
+Tilbúin eru drög að lögum PÍSK á spjalli Pírata (í Suðurkjörædmi?), félagið hélt tvo viðburði í sumar og sumargrill og göngu um Reykjadal. Það er mikil spenna fyrir næstu kosningum, stjórnin samanstendur af góðu fólki sem hefur mikinn metnað fyrir uppbyggingu starfsins í kjördæminu og árangri í komandi kosningum.
 
-Ég fæ ræðuna hjá henni á eftir
 
 Spurningar:
 
