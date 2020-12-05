@@ -18,13 +18,9 @@ Samkvæmt lögum Pírata skal bókhald félagsins vera opið almenningi. Ársrei
 
 Fundir Pírata, nefnda og aðildarfélaga skulu vera skjalsettir með fundargerðum.
 
-## Skýrslur
+## Nefndargögn
 
-Skýrslur sem lagaðar eru fyrir fundi eða eru á annan hátt færðar Pírötum skal varðveita.
-
-## Úrskurðir úrskurðarnefndar
-
-Úrskurðarnefnd hefur úrslitavald í deildumálum Pírata og kveður upp úrskurði sem leiða mál til lykta.
+Gögn frá nefndum eins og greinargerðir, tilkynningar, úrskurðir og fleira.
 
 ## Ýmislegt
 
