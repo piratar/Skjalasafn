@@ -2,9 +2,6 @@
 
 ## Prófkjör Pírata í Suðvesturkjördæmi
 
-*15 febrúar til 22. mars. *dagsetningar óstaðfestar*
-
-*ATH: Þessi drög eru birt með fyrirvara um staðfestingu í vefkosningu Pírata í Suðurvesturkjördæmi.*
 
 ### Reglur um prófkjör Pírata í Suðvesturkjördæmi fyrir alþingiskosningar 2021 og skyldur frambjóðenda.
 1. Frambjóðandi skal vera skráður í Pírata.
