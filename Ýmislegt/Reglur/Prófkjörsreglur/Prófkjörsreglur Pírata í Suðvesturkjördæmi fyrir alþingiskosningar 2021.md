@@ -10,9 +10,9 @@
 1. Frambjóðandi skal vera skráður í Pírata.
 2. Frambjóðandi skal tilkynna framboð með tölvupósti til kjördæmaráðs Suðvestukjördæmis á profkjor2021sudvest@piratar.is .
 3. Frambjóðandi skal skrá sig í prófkjörið á viðeigandi undirþingi í kosningakerfi Pírata á x.piratar.is.
-4. Kosning hefst kl. 15:00 þann 1. mars 2021 og lýkur klukkan 15:00 15. mars.
-5. Öllum skráningum skal lokið fyrir kl 15:00 15. febrúar. Frambjóðendur þurfa að framkvæma þessar skráningar í tæka tíð svo framboðið teljist löglegt.
-6. 15\. febrúar - 1. mars fer fram kynning á frambjóðendum.
+4. Kosning hefst kl. 16:00 þann 3. mars 2021 og lýkur klukkan 16:00 13. mars.
+5. Öllum skráningum skal lokið fyrir kl 14:00 þann 3. mars 2021. Frambjóðendur þurfa að framkvæma þessar skráningar í tæka tíð svo framboðið teljist löglegt.
+6. 1\. febrúar - 1. mars fer fram kynning á frambjóðendum.
 
 ### Siðareglur framboðsins
 1. Frambjóðendur í prófkjöri sýna öðrum frambjóðendum kurteisi og virðingu og koma fram af háttvísi, bæði í ræðu og riti.
