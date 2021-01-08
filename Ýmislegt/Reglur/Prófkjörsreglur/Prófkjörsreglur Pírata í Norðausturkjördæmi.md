@@ -1,7 +1,7 @@
 
 **Tilkynning um prófkjör:**
 
-Prófkjör Pírata í kjördæmi mun fara fram dagana 3. til 13. mars 2021 og mun fara fram á rafrænu kosningakerfi Pírata, x.piratar.is.
+Prófkjör Pírata í Norðausturkjördæmi mun fara fram dagana 3. til 13. mars 2021 og mun fara fram á rafrænu kosningakerfi Pírata, x.piratar.is.
 
 **Reglur um prófkjör Pírata fyrir alþingiskosningar 2021 og skyldur frambjóðenda í prófkjöri Pírata í Norðausturkjördæmi.**
 
