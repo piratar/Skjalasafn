@@ -24,8 +24,8 @@ Að prófkjöri loknu verða birta tölur um á hve mörgum kjörseðlum hver fr
 
 ###### Tímasetningar og kosningaréttur
 Opnað verður fyrir framboð á [þingi Pírata í Suðvesturkjördæmi](https://x.piratar.is/polity/219/) þriðjudaginn 1. desember 2020 kl. 15:00.
-Lokað verður fyrir framboð mánudaginn 1. mars 2021 kl. 14:00. Þá hefst kosningin á [þingi Pírata í Suðvesturkjördæmi](https://x.piratar.is/polity/219/).  
-Hafi 50 eða fleiri atkvæði verið greidd mánudaginn 15. mars 2021 kl. 14:00 telst prófkjöri lokið. Annars verður prófkjörið framlengt til mánudagsins 22. mars kl. 14:00 og öllum félagsmönnum Pírata boðið að greiða atkvæði, óháð skráningardegi og aðild að svæðisfélögum.
+Lokað verður fyrir framboð laugardaginn 3. mars 2021 kl. 16:00. Þá hefst kosningin á [þingi Pírata í Suðvesturkjördæmi](https://x.piratar.is/polity/219/).  
+Hafi 50 eða fleiri atkvæði verið greidd laugardaginn 13. mars 2021 kl. 16:00 telst prófkjöri lokið. Annars verður prófkjörið framlengt til mánudagsins 22. mars kl. 16:00 og öllum félagsmönnum Pírata boðið að greiða atkvæði, óháð skráningardegi og aðild að svæðisfélögum.
 
 ### Framboðslistinn
 Þeim frambjóðendum sem raðast efst í prófkjörinu býðst að velja sér laust sæti á framboðslistanum þar til framboðslistinn er fullskipaður eða þar til allir frambjóðendur hafa tekið eða fyrirgert sæti á lista. Séu þá enn laus sæti á framboðslistanum skal kjördæmisráðið skipa í þau sæti.
