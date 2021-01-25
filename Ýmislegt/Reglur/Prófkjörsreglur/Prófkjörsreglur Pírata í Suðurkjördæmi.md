@@ -57,13 +57,15 @@ eftirfarandi spurningum:
 7.  Með hvaða hætti telur þú líklegast að Píratar geti fengið sínum málum
     framgengt á þingi?
 
-*Vegna þeirrar miklu vinnu sem felst í söfnun undirskrifta til staðfestingar
+~~*Vegna þeirrar miklu vinnu sem felst í söfnun undirskrifta til staðfestingar
 lista eftir að prófkjöri lýkur er mælst til þess við frambjóðendur í prófkjöri
 Pírata í Suðurkjördæmi að þeir safni að minnsta kosti tíu til tuttugu
 undirskriftum meðmælenda sem merki um góðvilja frambjóðenda til framkvæmdaraðila
 framboðsins, sem munu starfa undir mikilli pressu með svo stuttan fyrirvara að
 kosningum. Þess er ekki krafist, en þetta eru mjög sterk tilmæli til allra
-frambjóðenda.*
+frambjóðenda.*~~ 
+
+*Eytt úr reglunum 25 janúar skv. ákvörðun kjördæmisráðs.*
 
 2. Atkvæðagreiðsla í prófkjöri Pírata:
 
