@@ -63,9 +63,9 @@ Pírata í Suðurkjördæmi að þeir safni að minnsta kosti tíu til tuttugu
 undirskriftum meðmælenda sem merki um góðvilja frambjóðenda til framkvæmdaraðila
 framboðsins, sem munu starfa undir mikilli pressu með svo stuttan fyrirvara að
 kosningum. Þess er ekki krafist, en þetta eru mjög sterk tilmæli til allra
-frambjóðenda.*~~ 
+frambjóðenda.*~~ \*
 
-*Eytt úr reglunum 25 janúar skv. ákvörðun kjördæmisráðs.*
+
 
 2. Atkvæðagreiðsla í prófkjöri Pírata:
 
@@ -165,6 +165,8 @@ prófkjörsreglum. Öllum athugasemdum, ágreiningi, fyrirspurnum eða
 upplýsingabeiðnum félagsmanna vegna prófkjörsins skal beint til kjördæmisráðs
 Pírata í Suðurkjördæmi: *kjorsud\@piratar.is*. Lagalegum ágreiningi skal vísa
 til Úrskurðarnefndar Pírata eftir því sem við á.
+
+\* *Eytt úr reglunum 25 janúar skv. ákvörðun kjördæmisráðs.*
 
   
   
