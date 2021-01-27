@@ -27,7 +27,7 @@ Prófkjör Pírata í Norðausturkjördæmi mun fara fram dagana 3. til 13. mars
 * Staða eða starfsheiti
 * Heimili
 
-2. Frambjóðandi þarf að koma sömu upplýsingum til kosningarnefndar, ásamt símanúmeri og netfangi þar sem hægt sé að ná sambandi við hann í undirbúningi prófkjörs eða kosninga, en þær upplýsingar fara ekki með í opinbera kynningu. Póstfang kjördæmaráðs er kosning.pink@piratar.is.
+2. Frambjóðandi þarf að koma sömu upplýsingum til kosningarnefndar, ásamt símanúmeri og netfangi þar sem hægt sé að ná sambandi við hann í undirbúningi prófkjörs eða kosninga, en þær upplýsingar fara ekki með í opinbera kynningu. Póstfang kjördæmaráðs er nakjordaemi@piratar.is.
 3. Frambjóðandi samþykkir með undirskrift endanlegt sæti á lista og gefur hann einnig samþykki fyrir umboðsmönnum listans. Þetta skal gert eigi síður en 4 dögum áður en frestur til að skila listanum rennur út, ellegar er heimilt að fella hann af lista.
 4. Með yfirlýsingu um framboð í prófkjöri í kosningakerfi Pírata telst frambjóðandi lýsa því yfir að hann hafi kjörgengi í Alþingiskosningum á Íslandi.
 5. Framboðslistum verður raðað samkvæmt úrslitum forgangskosningar með Schulze-aðferð eftir kosningu í kosningakerfi Pírata.
