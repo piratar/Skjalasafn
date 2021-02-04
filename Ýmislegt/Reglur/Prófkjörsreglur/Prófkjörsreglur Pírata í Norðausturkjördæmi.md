@@ -32,7 +32,7 @@ Prófkjör Pírata í Norðausturkjördæmi mun fara fram dagana 3. til 13. mars
 4. Með yfirlýsingu um framboð í prófkjöri í kosningakerfi Pírata telst frambjóðandi lýsa því yfir að hann hafi kjörgengi í Alþingiskosningum á Íslandi.
 5. Framboðslistum verður raðað samkvæmt úrslitum forgangskosningar með Schulze-aðferð eftir kosningu í kosningakerfi Pírata.
 6. Frambjóðandi hefur rétt, allt fram að þeim tíma sem framboðslisti er lagður fram til kjörstjórnar að óska eftir því skriflega til kosningastjórnar að hann sjálfur verði felldur út af listanum. Þeir frambjóðendur sem eru neðar á framboðslistanum, ef einhverjir, skulu færðir upp eftir sem því nemur. Frambjóðandi getur valið að halda sér á lista en tekur þá neðsta sæti. Ef ekki næst 18 manns á lista við prófkjör þá verður fyllt upp í síðustu sætin.
-7. Allir félagsmenn sem skráðir hafa verið í Pírata í 30 daga eða lengur munu hafa kosningarétt í prófkjöri Pírata í Norðausturkjördæmi; kosningaréttur uppfærist sjálfvirkt í kerfinu.
+7. Allir félagsmenn sem skráðir hafa verið í Pírata í 28 daga eða lengur munu hafa kosningarétt í prófkjöri Pírata í Norðausturkjördæmi; kosningaréttur uppfærist sjálfvirkt í kerfinu.*
 8. Lámarksfjöldi atkvæða í prófkjöri skulu vera í það minnsta kosti 100 atkvæði til að kosning um framboðslista teljist gild. Ef atkvæði eru undir lámarki þá framlengist prófkjörið sjálfkrafa um viku og opnast atkvæðisréttur til allra Pírata sem atkvæðisrétt hafa.
 
 **Vinsamleg tilmæli til frambjóðenda í prófkjöri**
@@ -49,3 +49,4 @@ Prófkjör Pírata í Norðausturkjördæmi mun fara fram dagana 3. til 13. mars
 3. Vegna þeirrar miklu vinnu sem felst í söfnun undirskrifta til staðfestingar lista fyrir kosningar er mælst til þess að frambjóðendur safni tíu til tuttugu undirskriftum sem merki um góðvilja frambjóðenda til framkvæmdaraðila framboðsins, sem munu starfa undir mikilli pressu. Þess er ekki krafist, en þetta eru mjög sterk tilmæli til allra frambjóðenda.
 4. Einnig óskum við eftir að frambjóðendur leiti til fólks í sínu nær umhverfi til að skrá sig á sjálfboðalista pírata í Norðausturkjördæmi. Fólkið á þessum sjálfboðalista er bakbeinið í kosningarbaráttunni.
 
+* Skráningarmörkum kjósenda breytt úr 30 dögum í 28 daga skv. ákvörðun kjördæmisráðs.
