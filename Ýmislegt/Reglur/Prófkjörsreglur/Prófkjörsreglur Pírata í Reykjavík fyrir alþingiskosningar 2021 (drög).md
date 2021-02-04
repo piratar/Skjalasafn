@@ -110,4 +110,4 @@ Frambjóðendur þurfa að taka þátt í að safna meðmælendum með framboði
 
 Við hvetjum þau sem hug hafa á að velja á framboðslista að skrá sig í Pírata meira en 30 dögum áður en prófkjörum lýkur til að tryggja sér kosningarétt.
 
-\* *Skráningarmörkum kjósenda breytt úr 30 dögum í 28 daga skv. ákvörðun kjördæmisráðs.
+\* *Skráningarmörkum kjósenda breytt úr 30 dögum í 28 daga skv. ákvörðun kjördæmisráðs.*
