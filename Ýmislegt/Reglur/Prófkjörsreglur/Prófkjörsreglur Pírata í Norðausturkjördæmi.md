@@ -49,4 +49,4 @@ Prófkjör Pírata í Norðausturkjördæmi mun fara fram dagana 3. til 13. mars
 3. Vegna þeirrar miklu vinnu sem felst í söfnun undirskrifta til staðfestingar lista fyrir kosningar er mælst til þess að frambjóðendur safni tíu til tuttugu undirskriftum sem merki um góðvilja frambjóðenda til framkvæmdaraðila framboðsins, sem munu starfa undir mikilli pressu. Þess er ekki krafist, en þetta eru mjög sterk tilmæli til allra frambjóðenda.
 4. Einnig óskum við eftir að frambjóðendur leiti til fólks í sínu nær umhverfi til að skrá sig á sjálfboðalista pírata í Norðausturkjördæmi. Fólkið á þessum sjálfboðalista er bakbeinið í kosningarbaráttunni.
 
-* Skráningarmörkum kjósenda breytt úr 30 dögum í 28 daga skv. ákvörðun kjördæmisráðs.
+\* *Skráningarmörkum kjósenda breytt úr 30 dögum í 28 daga skv. ákvörðun kjördæmisráðs.*
