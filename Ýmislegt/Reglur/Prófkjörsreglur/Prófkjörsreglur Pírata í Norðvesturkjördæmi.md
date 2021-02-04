@@ -63,4 +63,4 @@ Skoðaðu okkur líkaðu við okkur til að nýjustu fréttir af okkur.
 *Óskum ykkur góðs gengis\
 Kosninganefnd Pírata í Norðvesturkjördæmi.*
 
-\* *Skráningarmörkum kjósenda breytt úr 30 dögum í 28 daga skv. ákvörðun kjördæmisráðs.
+\* *Skráningarmörkum kjósenda breytt úr 30 dögum í 28 daga skv. ákvörðun kjördæmisráðs.*
