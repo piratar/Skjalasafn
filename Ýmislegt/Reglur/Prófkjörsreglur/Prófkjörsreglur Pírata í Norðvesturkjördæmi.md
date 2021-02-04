@@ -33,7 +33,7 @@ Prófkjör Pírata í Norðvesturkjördæmi mun fara fram dagana 3. til 13. mars
 4. Með yfirlýsingu um framboð í prófkjöri í kosningakerfi Pírata telst frambjóðandi lýsa því yfir að hann hafi kjörgengi í Alþingiskosningum á Íslandi.
 5. Framboðslistum verður raðað samkvæmt úrslitum forgangskosningar með Schulze-aðferð eftir kosningu í kosningakerfi Pírata.
 6. Frambjóðandi hefur rétt, allt fram að þeim tíma sem framboðslisti er lagður fram til kjörstjórnar að óska eftir því skriflega til kosninganefndar að hann sjálfur verði felldur út af listanum. Þeir frambjóðendur sem eru neðar á framboðslistanum, ef einhverjir, skulu færðir upp eftir sem því nemur. Frambjóðandi getur valið að halda sér á lista en tekur þá neðsta sæti. Ef ekki næst 18 manns á lista við prófkjör þá verður fyllt upp í síðustu sætin.
-7. Allir félagsmenn sem skráðir hafa verið í Pírata í 30 daga eða lengur munu hafa kosningarétt í prófkjöri Pírata í Norðvesturkjördæmi; kosningaréttur uppfærist sjálfvirkt í kerfinu.
+7. Allir félagsmenn sem skráðir hafa verið í Pírata í 28 daga eða lengur munu hafa kosningarétt í prófkjöri Pírata í Norðvesturkjördæmi; kosningaréttur uppfærist sjálfvirkt í kerfinu.*
 8. Lámarksfjöldi atkvæða í prófkjöri skulu vera í það minnsta kosti 100 atkvæði til að kosning um framboðslista teljist gild. Ef atkvæði eru undir lámarki þá framlengist prófkjörið sjálfkrafa um viku og opnast atkvæðisréttur til allra Pírata sem atkvæðisrétt hafa.
 
 **Vinsamleg tilmæli til frambjóðenda í prófkjöri**
@@ -62,3 +62,5 @@ Skoðaðu okkur líkaðu við okkur til að nýjustu fréttir af okkur.
 
 *Óskum ykkur góðs gengis\
 Kosninganefnd Pírata í Norðvesturkjördæmi.*
+
+\* *Skráningarmörkum kjósenda breytt úr 30 dögum í 28 daga skv. ákvörðun kjördæmisráðs.
