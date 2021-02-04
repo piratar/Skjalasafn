@@ -168,6 +168,6 @@ til Úrskurðarnefndar Pírata eftir því sem við á.
 
 \* *Eytt úr reglunum 25 janúar skv. ákvörðun kjördæmisráðs.*
 
-\* **Skráningarmörkum kjósenda breytt úr 30 dögum í 28 daga skv. ákvörðun kjördæmisráðs.  
+\* **Skráningarmörkum kjósenda breytt úr 30 dögum í 28 daga skv. ákvörðun kjördæmisráðs.*
   
 
