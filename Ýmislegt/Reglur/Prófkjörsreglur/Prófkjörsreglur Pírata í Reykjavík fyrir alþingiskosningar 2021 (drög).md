@@ -73,7 +73,7 @@ Tölfræði bak við röðun verður birt greiði 100 eða fleiri atkvæði í p
 
 ## Kosningaréttur í prófkjörum Pírata
 
-Kosningarétt í þessu prófkjöri Pírata í Reykjavík hafa þeir sem eru félagsmenn í Pírötum í  Reykjavík og hafa hafa verið skráðir Píratar í 30 daga eða lengur þegar prófkjörinu lýkur og eru með aðgang að kosningakerfi Pírata í Reykjavík.
+Kosningarétt í þessu prófkjöri Pírata í Reykjavík hafa þeir sem eru félagsmenn í Pírötum í  Reykjavík og hafa hafa verið skráðir Píratar í 28 daga eða lengur þegar prófkjörinu lýkur og eru með aðgang að kosningakerfi Pírata í Reykjavík.*
 
 Kosningaréttur fer að öðru leyti eftir lögum Pírata í Reykjavík og ákvörðun stjórnar eða kjördæmisráðs ef það starfar, innan ramma laga Pírata.
 
@@ -109,3 +109,5 @@ Frambjóðendur þurfa að taka þátt í að safna meðmælendum með framboði
 ## Vinsamleg tilmæli eða ráð til kjósenda
 
 Við hvetjum þau sem hug hafa á að velja á framboðslista að skrá sig í Pírata meira en 30 dögum áður en prófkjörum lýkur til að tryggja sér kosningarétt.
+
+\* *Skráningarmörkum kjósenda breytt úr 30 dögum í 28 daga skv. ákvörðun kjördæmisráðs.
