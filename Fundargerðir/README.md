@@ -12,7 +12,11 @@ Hér er að finna fundargerðir Pírata. Skrárnar eru nefndar eftir degi funda 
   * **Málefnahópar:** formlegir eða óformlegir hópar sem fjalla um afmörkuð málefni.
   * **Starfshópar:** formlegir hópar sem vinna við afmörkuð störf.
   * **Þinghópur:** hópur þingmanna á Alþingi.
-* **Nefndir:** skipulagseiningar félagsins.
+* **Nefndir:** yfirstjórn félagsins.
+  * **Fjármálaráð:** sér um fjárhagsáætlanagerð og gerð verklagsreglna um fjármálaumsjón samkvæmt kafla 7.3 í lögum Pírata.
+  * **Framkvæmdastjórn:** æðsta stjórn félagsins samkvæmt kafla 7.1 í lögum Pírata og landslögum.
+  * **Stefnu- og málefnanefnd:** styður við stefnumótun og málefnastarf samkvæmt kafla 7.2 í lögum Pírata.
+* **Samráðsvettvangur:** samráðsfundir yfirstjórnar, aðildarfélaga og hópa samkvæmt kafla 7.4 í lögum Pírata.
 
 Athygli skal vakin á því að framkvæmdastjórn hét áður framkvæmdaráð.
 
