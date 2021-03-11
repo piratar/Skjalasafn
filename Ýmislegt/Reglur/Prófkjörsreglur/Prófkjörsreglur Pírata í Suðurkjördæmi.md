@@ -72,7 +72,7 @@ frambjóðenda.*~~ \*
 Tímasetningar og reglur fyrir kjósendur:
 
 1.  Atkvæðagreiðsla stendur yfir í vefkosningakerfi Pírata í 10 daga frá
-    miðvikudegi 3. mars kl. 14:00 til laugardagsins 13. mars 2021 kl. 14:00.
+    miðvikudegi 3. mars kl. 16:00 til laugardagsins 13. mars 2021 kl. 16:00.
 
 2.  Allir sem skráðir hafa verið í Pírata í Suðurkjördæmi í 28 daga geta greitt
     atkvæði í prófkjöri Pírata í Suðurkjördæmi fyrir alþingiskosningar 2021.*
@@ -84,7 +84,7 @@ Tímasetningar og reglur fyrir kjósendur:
 4.  Breyta má eigin atkvæði eins oft og hver vill í vefkosningakerfinu þar til
     atkvæðagreiðslu lýkur.
 
-5.  Atkvæðagreiðslu lýkur laugardaginn 13. mars 2021 kl. 14:00.  
+5.  Atkvæðagreiðslu lýkur laugardaginn 13. mars 2021 kl. 16:00.  
       
     
 
