@@ -37,7 +37,7 @@ Frambjóðandi sem tekur sæti á framboðslista Pírata skal samþykkja það m
 
 * Frestur til að skila inn framboði rennur út miðvikudaginn 3. mars 2021. kl. 14:00. Þá kosning hefst kl 16:00 á x.piratar.is.
 
-* Kosningin stendur í 10 daga, til laugardagsins 13. mars 2021 kl. 14:00.
+* Kosningin stendur í 10 daga, til laugardagsins 13. mars 2021 kl. 16:00.
 
 ## Niðurstaða prófkjörs
 
