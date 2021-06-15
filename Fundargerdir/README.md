@@ -5,7 +5,7 @@ Hér er að finna fundargerðir Pírata. Skrárnar eru nefndar eftir degi funda 
 ## Skipulag
 
 * **Aðalfundir:** árlegir fundir félagsmanna samkvæmt lögum.
-* **Aðildarfélög:** ósvæðisbundin, svæðisbundin og kjördæmafélög.
+* **Aðildarfélög:** ósvæðisbundin, svæðisbundin og kjördæmisfélög.
 * **Félagsfundir:** almennir fundir félagsmanna.
 * **Framfarafundir:** samráðsfundir framkvæmdastjórnar og hópa.
 * **Hópar:**
