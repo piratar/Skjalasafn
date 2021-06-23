@@ -1,1 +1,0 @@
-[Aðildarfélagið hefur engum gögnum skilað í skjalasafnið.]
