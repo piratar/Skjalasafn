@@ -25,3 +25,19 @@ Athygli skal vakin á því að framkvæmdastjórn hét áður framkvæmdaráð.
 Ákvæði í lögum Pírata um fundargerðir:
 * 7.9. Halda skal fundargerðir fyrir fundi stjórna, nefnda og ráða og skulu þær birtar innan mánaðar frá fundi.
 * 11.4. Aðildarfélagi ber að skila fundargerð aðalfundar, ársskýrslu og bókhaldsgögnum sínum til framkvæmdastjórnar. Hafi slík gögn borist fyrir lok júnímánaðar telst aðildarfélag vera virkt.
+
+## Sýnidæmi
+
+Það er mikilvægt að vanda vel til verka þegar fundargerð er rituð svo efni hennar skiljist. Illa rituð fundargerð getur verið gagnslaus með öllu. Á vef Stofnunar Árna Magnússonar í íslenskum fræðum er í boði verkfærið [Skrambi](https://skrambi.arnastofnun.is) sem getur fundið allar algengustu stafsetningarvillurnar.
+
+* Fundargerðir nefndar (fjármálaráð):
+  * [nefndarfundur 1. október 2020](https://github.com/piratar/Skjalasafn/blob/master/Fundargerdir/Nefndir/Fjarmalarad/2020/2020-10-01%20(1.%20fundur).md) (með framkvæmdastjóra)
+  * [nefndarfundur 26. nóvember 2020](https://github.com/piratar/Skjalasafn/blob/master/Fundargerdir/Nefndir/Fjarmalarad/2020/2020-11-26%20(7.%20fundur).md) (fyrst með stefnu- og málefnanefnd og síðan fjármálaráðsfundur)
+  * [nefndarfundur 17. desember 2020](https://github.com/piratar/Skjalasafn/blob/master/Fundargerdir/Nefndir/Fjarmalarad/2020/2020-12-17%20(9.%20fundur).md) (fyrst með endurskoðendum og framkvæmdastjóra og síðan með framkvæmdastjóra)
+  * [nefndarfundur 1. júlí 2021](https://github.com/piratar/Skjalasafn/blob/master/Fundargerdir/Nefndir/Fjarmalarad/2021/2021-07-01%20(15.%20fundur).md) (fjármálaráðsfundur)
+  * [nefndarfundur 7. júlí 2021](https://github.com/piratar/Skjalasafn/blob/master/Fundargerdir/Nefndir/Fjarmalarad/2021/2021-07-07%20(16.%20fundur).md) (með framkvæmdastjórn)
+* Fundargerðir félagsfundar:
+  * [félagsfundur fjármálaráðs 11. mars 2021](https://github.com/piratar/Skjalasafn/blob/master/Fundargerdir/Felagsfundir/2021/2021-03-11.md)
+  * [félagsfundur oddvita 27. júlí 2021](https://github.com/piratar/Skjalasafn/blob/master/Fundargerdir/Felagsfundir/2021/2021-07-27.md)
+* Fundargerðir samráðsvettvangs:
+  * [samráðsfundur 28. júlí 2021](https://github.com/piratar/Skjalasafn/blob/master/Fundargerdir/Samradsvettvangur/2021-07-28.md)
