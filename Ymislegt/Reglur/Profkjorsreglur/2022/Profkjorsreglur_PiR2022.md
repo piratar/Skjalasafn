@@ -106,5 +106,6 @@ Frambjóðandi skal tilkynna framboð með innsendingu forms á slóðinni https
 7. Ef frambjóðandi er ekki kjörgengur er heimilt að víkja honum af lista svo listinn sé löglegur. Ábyrgðaraðilum prófkjörs ber að athuga kjörgengi frambjóðenda áður en fullbúinn listi er kynntur.
 
 8. Frambjóðendur gera grein fyrir öllum þeim hagsmunum sem gætu skipt máli við framboðið. Hagsmunaskráningu skal lokið áður en kosning hefst þann 12. febrúar. Skrá skal hagsmuni inn á Mínum síðum frambjóðanda í kosningakerfi Pírata (https://x.piratar.is) Hagsmunaskráning skal fylgja reglum Reykjavíkurborgar um hagsmunaskráningu kjörinna fulltrúa.
+Reglur um hagsmunaskráningu borgarfulltrúa: https://reykjavik.is/sites/default/files/reglur_um_skraningu_fjarhagslegra_hagsmuna_samthykktar_3._mars_2020_0.pdf
 
 9. Sé greitt fyrir auglýsingar til kynningar framboði í prófkjöri verður að gera grein fyrir þeim fjárútlátum. Þetta er samkvæmt landslögum og má finna leiðbeiningar hér.
