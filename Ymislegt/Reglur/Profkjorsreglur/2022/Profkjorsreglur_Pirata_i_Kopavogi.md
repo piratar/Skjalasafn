@@ -1,3 +1,5 @@
+*Þessi drög eru í umsagnarferli hjá grasrót Pírata í Kópavogi sem lýkur 22. febrúar. Birt með fyrirvara um breytingar.*
+
 ## Prófkjörsreglur og leiðbeiningar fyrir framboð í prófkjöri Pírata vegna sveitarstjórnarkosninga 2022 í Kópavogi
 
 Sveitarstjórnarkosningar fara fram á Íslandi 14. maí 2022. Stjórn Pírata í Kópavogi hefur ákveðið að fram fari prófkjör við val á framboðslista Pírata fyrir sveitarstjórnarkosningarnar í Kópavogi. Hér fyrir neðan er að finna allar upplýsingar varðandi framkvæmd prófkjörsins.
