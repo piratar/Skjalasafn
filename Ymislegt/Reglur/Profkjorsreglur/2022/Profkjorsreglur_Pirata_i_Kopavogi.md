@@ -8,17 +8,15 @@ Ábyrgðaraðili prófkjörsins er framkvæmdastjóri Pírata, Elsa Kristjá
 
 ### Tímalína prófkjörs
 
-Tillögur a og b hér að neðan eru opnar fyrir athugasemdum en endanleg ákvörðun verður í höndum starfsfólks Pírata.
+**Frestur til að bjóða sig fram rennur út 15. Febrúar kl.15:00**
 
-a)
-Frestur rennur út 12. Feb. → laugardagur Kynningar 14-16. febrúar
+**Kynningar frambjóðenda á vegum Pírata verða frá miðvikudegi til föstudags 16.-18. febrúar**
 
-Kosning hefst 17. Febrúar → fimmtudagur Kosningu lýkur 24. Febrúar → fimmtudagur
+**Kosning hefst 19. Febrúar kl.15:00**
 
-b)
-Frestur rennur út 15. Febrúar → þriðjudagur Kynningar 16-18. febrúar
+**Kosningu lýkur 26. Febrúar kl. 15:00**
 
-Kosning hefst 19. Febrúar → laugardagur Kosningu lýkur 26. Febrúar → laugardagur
+**Niðurstöður verða birtar þá þegar.**
 
 ### Leiðbeiningar um þátttöku í prófkjöri
 Frambjóðendur tilkynna sjálfir framboð inn á þing Pírata í Kópavogi í kosningakerfi Pírata á https://x.piratar.is ásamt því að skila inn formi til ábyrgðaraðila sveitarstjórnarkosninga.
