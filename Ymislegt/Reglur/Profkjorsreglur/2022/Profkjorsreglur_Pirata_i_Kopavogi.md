@@ -1,4 +1,3 @@
-*Þessi drög eru í umsagnarferli hjá grasrót Pírata í Kópavogi sem lýkur 22. febrúar. Birt með fyrirvara um breytingar.*
 
 ## Prófkjörsreglur og leiðbeiningar fyrir framboð í prófkjöri Pírata vegna sveitarstjórnarkosninga 2022 í Kópavogi
 
