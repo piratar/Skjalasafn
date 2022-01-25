@@ -71,7 +71,7 @@ Niðurstaða prófkjörs er bindandi. Frambjóðendur geta þó óskað eft
 
 4. Frambjóðendur hafa í huga að ekki er hefð fyrir kostuðum auglýsingum frambjóðenda í prófkjörum Pírata. Ekki er hægt að banna frambjóðendum fjárútlát til að koma framboði sínu á framfæri en þeim er engu að síður upp á lagt að halda þeim í hófi. Ágætt viðmið er að fara ekki yfir 25 þús. kr. í auglýsingakostnað.
 
-## Prófkjörsreglur fyrir sveitarstjórnarkosningar í Hafnarfirði 2022
+## Prófkjörsreglur fyrir sveitarstjórnarkosningar á Akureyri 2022
 
 Frambjóðandi skal tilkynna framboð með innsendingu forms á slóðinni https://piratar.is/pih-profkjor2022/. Þar þarf að koma fram eftirfarandi:
 
