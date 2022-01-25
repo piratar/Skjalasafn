@@ -103,7 +103,7 @@ Frambjóðandi skal tilkynna framboð með innsendingu forms á slóðinni ht
 
 7. Ef frambjóðandi er ekki kjörgengur er heimilt að víkja honum af lista svo listinn sé löglegur. Ábyrgðaraðila prófkjörs ber að athuga kjörgengi frambjóðenda áður en fullbúinn listi er kynntur.
 
-8. Frambjóðendur gera grein fyrir öllum þeim hagsmunum sem gætu skipt máli við framboðið. Hagsmunaskráningu skal lokið áður en kosning hefst þann 5. mars. Skrá skal hagsmuni inn á Mínum síðum frambjóðanda í kosningakerfi Pírata (https://x.piratar.is) Hagsmunaskráning skal fylgja reglum KHafnarfjarðarbæjar um hagsmunaskráningu kjörinna fulltrúa.
+8. Frambjóðendur gera grein fyrir öllum þeim hagsmunum sem gætu skipt máli við framboðið. Hagsmunaskráningu skal lokið áður en kosning hefst þann 5. mars. Skrá skal hagsmuni inn á Mínum síðum frambjóðanda í kosningakerfi Pírata (https://x.piratar.is) Hagsmunaskráning skal fylgja reglum Hafnarfjarðarbæjar um hagsmunaskráningu kjörinna fulltrúa.
 Reglur um hagsmunaskráningu bæjarfulltrúa í Hafnarfirði: https://www.hafnarfjordur.is/media/stefnur-og-reglur/1604144-Reglur-um-skraningu-a-fjarhagslegum-hagsmunum-og-trunadarstorfum-baejarfulltrua-og-fulltrua-i-fagradum-utan-baejarstjornar-01062016.pdf
 
 9. Sé greitt fyrir auglýsingar til kynningar á framboði í prófkjöri verður að gera grein fyrir þeim fjárútlátum. Þetta er samkvæmt landslögum og má finna leiðbeiningar hér.
