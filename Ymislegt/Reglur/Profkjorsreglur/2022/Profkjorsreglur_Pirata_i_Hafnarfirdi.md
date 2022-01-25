@@ -15,7 +15,7 @@ Ábyrgðaraðili prófkjörsins er framkvæmdastjóri Pírata, Elsa Kristjá
 
 **Kosning hefst 5. mars kl.15:00**
 
-**Kosningu lýkur 12. apríl kl. 15:00**
+**Kosningu lýkur 12. mars kl. 15:00**
 
 **Niðurstöður verða birtar þá þegar.**
 
