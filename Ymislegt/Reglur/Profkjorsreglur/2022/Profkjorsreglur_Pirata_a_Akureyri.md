@@ -11,7 +11,7 @@ Ábyrgðaraðili prófkjörsins er framkvæmdastjóri Pírata, Elsa Kristjá
 
 **Frestur til að bjóða sig fram rennur út 1. mars kl.15:00**
 
-**Kynningar frambjóðenda á vegum Pírata verða frá miðvikudegi til föstudags 2.-4. febrúar**
+**Kynningar frambjóðenda á vegum Pírata verða frá miðvikudegi til föstudags 7.-8. mars**
 
 **Kosning hefst 5. mars kl.15:00**
 
