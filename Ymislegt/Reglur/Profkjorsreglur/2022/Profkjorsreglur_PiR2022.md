@@ -1,3 +1,7 @@
+***Allt um prófkjör Pírata vegna sveitarstjórnarkosninga má finna á heimasíðu Pírata: https://piratar.is/frettir/sveitarstjorn/profkjor-pirata-2022/***
+
+***Prófkjörsvefsvæði Pírata í Reykjavík: https://piratar.is/pir-profkjor2022/***
+
 ## Prófkjörsreglur og leiðbeiningar fyrir framboð í prófkjöri Pírata vegna sveitarstjórnarkosninga 2022 í Reykjavík
 
 Sveitarstjórnarkosningar fara fram á Íslandi 14. maí 2022. Stjórn Pírata í Reykjavík hefur ákveðið að fram fari prófkjör við val á framboðslista Pírata fyrir sveitarstjórnarkosningarnar í Reykjavík. Hér fyrir neðan er að finna allar upplýsingar varðandi framkvæmd prófkjörsins.
