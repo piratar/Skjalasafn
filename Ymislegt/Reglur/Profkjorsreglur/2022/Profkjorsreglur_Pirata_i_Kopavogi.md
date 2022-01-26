@@ -1,3 +1,7 @@
+***Allt um prófkjör Pírata vegna sveitarstjórnarkosninga má finna á heimasíðu Pírata: https://piratar.is/frettir/sveitarstjorn/profkjor-pirata-2022/***
+
+***Prófkjörsvefsvæði Pírata í Kópavogi: https://piratar.is/pik-profkjor2022/***
+
 
 ## Prófkjörsreglur og leiðbeiningar fyrir framboð í prófkjöri Pírata vegna sveitarstjórnarkosninga 2022 í Kópavogi
 
