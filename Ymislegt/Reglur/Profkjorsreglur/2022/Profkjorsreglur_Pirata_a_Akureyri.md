@@ -1,3 +1,7 @@
+***Allt um prófkjör Pírata vegna sveitarstjórnarkosninga má finna á heimasíðu Pírata: https://piratar.is/frettir/sveitarstjorn/profkjor-pirata-2022/***
+
+***Prófkjörsvefsvæði Pírata á Akureyri: https://piratar.is/pa-profkjor2022/***
+
 *Þessi drög eru í umsagnarferli hjá grasrót Pírata á Akureyri sem lýkur 29. janúar. Birt með fyrirvara um breytingar.*
 
 ## Prófkjörsreglur og leiðbeiningar fyrir framboð í prófkjöri Pírata vegna sveitarstjórnarkosninga 2022 á Akureyri
