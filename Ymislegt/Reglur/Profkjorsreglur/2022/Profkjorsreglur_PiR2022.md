@@ -11,7 +11,7 @@ Sveitarstjórnarkosningar fara fram á Íslandi 14. maí 2022. Stjórn Pírata �
 
 ### Tímalína prófkjörs
 
-Samþykkt á Félagsfundi 12.febrúar 2022 að hafa nokkra daga fyrir kynningar á milli loka framboðsfrests og upphaf kosningar. Eftirfarandi er tímalína prófkjörsins:
+Samþykkt á Félagsfundi 12.janúar 2022 að hafa nokkra daga fyrir kynningar á milli loka framboðsfrests og upphaf kosningar. Eftirfarandi er tímalína prófkjörsins:
 
 **Frestur til að bjóða sig fram rennur út 15. Febrúar kl.15:00**
 
@@ -37,7 +37,7 @@ Til þess að tilkynna framboð á kosningakerfinu þarf að:
 
 4. Jafnframt þarf að skila inn formlegri tilkynningu til ábyrgðaraðila sveitarstjórnarkosninga í sveitarfélaginu sem er stjórn Pírata í Reykjavík í gegnum form á netinu: https://piratar.is/pir-profkjor2022/
 
-Sú tilkynning skal berast með öllum nauðsynlegum upplýsingum áður en framboðsfrestur rennur út þann 12. febrúar 15:00.
+Sú tilkynning skal berast með öllum nauðsynlegum upplýsingum áður en framboðsfrestur rennur út þann 15. febrúar 15:00.
 
 Sértu ekki skráð/ur í kosningakerfið þá geturðu haft samband við viðkomandi aðildarfélag eða framkvaemdastjori@piratar.is.
 
@@ -109,7 +109,7 @@ Frambjóðandi skal tilkynna framboð með innsendingu forms á slóðinni https
 
 7. Ef frambjóðandi er ekki kjörgengur er heimilt að víkja honum af lista svo listinn sé löglegur. Ábyrgðaraðilum prófkjörs ber að athuga kjörgengi frambjóðenda áður en fullbúinn listi er kynntur.
 
-8. Frambjóðendur gera grein fyrir öllum þeim hagsmunum sem gætu skipt máli við framboðið. Hagsmunaskráningu skal lokið áður en kosning hefst þann 12. febrúar. Skrá skal hagsmuni inn á Mínum síðum frambjóðanda í kosningakerfi Pírata (https://x.piratar.is) Hagsmunaskráning skal fylgja reglum Reykjavíkurborgar um hagsmunaskráningu kjörinna fulltrúa.
+8. Frambjóðendur gera grein fyrir öllum þeim hagsmunum sem gætu skipt máli við framboðið. Hagsmunaskráningu skal lokið áður en kosning hefst þann 15. febrúar. Skrá skal hagsmuni inn á Mínum síðum frambjóðanda í kosningakerfi Pírata (https://x.piratar.is) Hagsmunaskráning skal fylgja reglum Reykjavíkurborgar um hagsmunaskráningu kjörinna fulltrúa.
 Reglur um hagsmunaskráningu borgarfulltrúa: https://reykjavik.is/sites/default/files/reglur_um_skraningu_fjarhagslegra_hagsmuna_samthykktar_3._mars_2020_0.pdf
 
 9. Sé greitt fyrir auglýsingar til kynningar framboði í prófkjöri verður að gera grein fyrir þeim fjárútlátum. Þetta er samkvæmt landslögum og má finna leiðbeiningar hér.
