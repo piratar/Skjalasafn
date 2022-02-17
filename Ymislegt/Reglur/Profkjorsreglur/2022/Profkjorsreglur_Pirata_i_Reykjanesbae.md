@@ -35,8 +35,7 @@ Fyrir sveitarstjórnakosningar 2022 fylgja Píratar á Suðurnesjum eftirfarandi
 * Atkvæðagreiðsla í prófkjörum fer fram í vefkosningakerfi Pírata x.piratar.is, þar sem fram koma skráningarupplýsingar þeirra sem skráð sig hafa á lista. 
 
 * Atkvæðagreiðslu lýkur kl. 15:00 laugardaginn 12. mars 2022. 
-
-* Sé heildarfjöldi greiddra atvæða undir 100 að lokinni atkvæðagreiðslu þá framlengist prófkjörið um 7 sólarhringa og allir sem skráðir hafa verið í Pírata í 30 daga, óháð lögheimili, geta þá greitt atkvæði. 
+ 
 
 #### Niðurstöður prófkjörs Pírata:
 
