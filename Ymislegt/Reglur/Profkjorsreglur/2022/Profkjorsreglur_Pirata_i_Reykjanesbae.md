@@ -1,6 +1,5 @@
 ***Allt um prófkjör Pírata vegna sveitarstjórnarkosninga má finna á heimasíðu Pírata: https://piratar.is/frettir/sveitarstjorn/profkjor-pirata-2022/***
 
-### Drög:
 
 ## Reglur um prófkjörshald Pírata á Suðurnesjum 2022
 
