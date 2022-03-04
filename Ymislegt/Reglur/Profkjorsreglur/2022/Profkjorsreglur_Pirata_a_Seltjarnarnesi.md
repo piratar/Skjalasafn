@@ -22,7 +22,7 @@ Ábyrgðaraðili prófkjörsins er framkvæmdastjóri Pírata, Elsa Kristjá
 
 
 ### Leiðbeiningar um þátttöku í prófkjöri
-Frambjóðendur tilkynna sjálfir framboð í kosningakerfi Pírata á https://x.piratar.is ásamt því að senda tölvupóst með nafni, kennitölu, stöðu/starfsheiti, heimilisfangi og símanúmeri á framkvaemdastjori@piratar.is.
+Frambjóðendur tilkynna sjálfir framboð í kosningakerfi Pírata á https://x.piratar.is/polity/1/election/144/ ásamt því að senda tölvupóst með nafni, kennitölu, stöðu/starfsheiti, heimilisfangi og símanúmeri á framkvaemdastjori@piratar.is.
 
 Til þess að tilkynna framboð á kosningakerfinu þarf að:
 
