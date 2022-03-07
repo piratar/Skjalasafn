@@ -8,18 +8,16 @@ Ábyrgðaraðili prófkjörsins er framkvæmdastjóri Pírata, Elsa Kristjá
 
 ### Tímalína prófkjörs
 
-**Frestur til að bjóða sig fram rennur út 1. mars kl.15:00**
+**Frestur til að bjóða sig fram rennur út 14. mars kl.15:00**
 
-**Kynningar frambjóðenda á vegum Pírata verða frá miðvikudegi til föstudags 2.-4. febrúar**
+**Kosning hefst 19. mars kl.15:00**
 
-**Kosning hefst 5. mars kl.15:00**
-
-**Kosningu lýkur 12. apríl kl. 15:00**
+**Kosningu lýkur 26. mars kl. 15:00**
 
 **Niðurstöður verða birtar þá þegar.**
 
 ### Leiðbeiningar um þátttöku í prófkjöri
-Frambjóðendur tilkynna sjálfir framboð inn á þing Pírata í norðvesturkjördæmi í kosningakerfi Pírata á https://x.piratar.is ásamt því að skila inn formi til ábyrgðaraðila sveitarstjórnarkosninga.
+Frambjóðendur tilkynna sjálfir framboð inn á þing Pírata í kosningakerfi Pírata á https://x.piratar.is ásamt því að skila inn formi til ábyrgðaraðila sveitarstjórnarkosninga.
 
 Til þess að tilkynna framboð á kosningakerfinu þarf að:
 
@@ -29,7 +27,7 @@ Til þess að tilkynna framboð á kosningakerfinu þarf að:
 4. Smella á „Tilkynna framboð“ hnappinn.
 5. Jafnframt þarf að skila inn formlegri tilkynningu til ábyrgðaraðila prófkjör í gegnum form á netinu: https://piratar.is/pisa-profkjor2022/
 
-Sú tilkynning skal berast með öllum nauðsynlegum upplýsingum áður en framboðsfrestur rennur út þann 1. mars 15:00.
+Sú tilkynning skal berast með öllum nauðsynlegum upplýsingum áður en framboðsfrestur rennur út þann 14. mars 15:00.
 
 Sértu ekki skráð/ur í kosningakerfið þá geturðu haft samband við viðkomandi aðildarfélag eða framkvaemdastjori@piratar.is.
 
@@ -39,7 +37,7 @@ Ábyrgðaraðilar prófkjörs munu hafa samband við alla þátttakendur vi�
 
 Kynning á frambjóðendum mun fara fram á rafrænum fundum.
 
-Ábyrgðaraðili prófkjörsins mun í samstarfi við stjórn PíNK skipuleggja kynningarfundi á netinu þar sem frambjóðendur fá fyrirfram ákveðin tíma til að kynna sig og svara spurningum frá félagsfólki. Nánari útlistun á tíma og fyrirkomulagi verður kynnt 1. mars þegar framboðsfrestur er liðinn. Frambjóðendum er ráðlagt að undirbúa sig og vera reiðubúin. ***Auk þess verður útbúið kynningarefni fyrir hvern frambjóðanda sem dreift verður frá samfélagsmiðlum Pírata í Norðvesturkjördæmi.*** (skrifstofan getur ekki tekið þetta að sér, ef stjórn vill hafa þetta inni verður hún að sjá um framkvæmdina)
+Ábyrgðaraðili prófkjörsins mun í samstarfi við stjórn PíNK skipuleggja kynningarfundi á netinu þar sem frambjóðendur fá fyrirfram ákveðin tíma til að kynna sig og svara spurningum frá félagsfólki. Nánari útlistun á tíma og fyrirkomulagi verður kynnt 14. mars þegar framboðsfrestur er liðinn. Frambjóðendum er ráðlagt að undirbúa sig og vera reiðubúin. ***Auk þess verður útbúið kynningarefni fyrir hvern frambjóðanda sem dreift verður frá samfélagsmiðlum Pírata í Norðvesturkjördæmi.*** (skrifstofan getur ekki tekið þetta að sér, ef stjórn vill hafa þetta inni verður hún að sjá um framkvæmdina)
 
 Frambjóðendur eru hvattir til að svara eftirfarandi spurningum og birta svörin á Mín síða á kosningakerfi Pírata (https://x.piratar.is )
 
@@ -71,7 +69,7 @@ Niðurstaða prófkjörs er bindandi. Frambjóðendur geta þó óskað eft
 
 ## Prófkjörsreglur fyrir sveitarstjórnarkosningar í Ísafjarðarbæ 2022
 
-Frambjóðandi skal tilkynna framboð með innsendingu forms á slóðinni https://piratar.is/pisa-profkjor2022/. Þar þarf að koma fram eftirfarandi:
+Frambjóðandi skal tilkynna framboð með tölvupósti á framkvaemdastjori@piratar.is. Þar þarf að koma fram eftirfarandi:
 
 * Fullt nafn (samkvæmt þjóðskrá)
 
@@ -99,11 +97,11 @@ Frambjóðandi skal tilkynna framboð með innsendingu forms á slóðinni ht
 
 6. Framboðslistum verður raðað samkvæmt úrslitum forgangskosningar með Schulze aðferð eftir kosningu í kosningakerfi Pírata. Þó skal frambjóðendum heimilt að víkja sæti og taka lægra sæti á lista en kjör hans segir til um, og færast þá aðrir frambjóðendur ofar á lista. Starfsfólki Pírata er ekki heimilt að taka fyrsta eða annað sæti. Hafni frambjóðandi sæti eða geti af öðrum sökum ekki tekið því skal afmá nafn hans af listanum og færa þá sem á eftir koma upp um eitt sæti. Nægi fjöldi frambjóðenda að þessum breytingum loknum ekki lögbundnu lágmarki fyrir fullskipaðan framboðslista er ábyrgðaraðila listans heimilt að bæta nöfnum þeirra sem það samþykkja í sæti á eftir þeim sem kjörnir hafa verið á framboðslistann.
 
-7. Allir félagsmenn sem skráðir hafa verið í Pírata í 30 daga eða lengur munu hafa kosningarétt í prófkjöri Pírata í Ísafjarðarbæ. Lokadagsetning til að skrá sig í Pírata og hafa atkvæðisrétt er á miðnætti þann 10. febrúar n.k. eða 30 dögum áður en kosningum lýkur.
+7. Allir félagsmenn sem skráðir hafa verið í Pírata í 30 daga eða lengur munu hafa kosningarétt í prófkjöri Pírata í Ísafjarðarbæ. Lokadagsetning til að skrá sig í Pírata og hafa atkvæðisrétt er á miðnætti þann 25. febrúar n.k. eða 30 dögum áður en kosningum lýkur.
 
 7. Ef frambjóðandi er ekki kjörgengur er heimilt að víkja honum af lista svo listinn sé löglegur. Ábyrgðaraðilum prófkjörs ber að athuga kjörgengi frambjóðenda áður en fullbúinn listi er kynntur.
 
-8. Frambjóðendur gera grein fyrir öllum þeim hagsmunum sem gætu skipt máli við framboðið. Hagsmunaskráningu skal lokið áður en kosning hefst þann 19. febrúar. Skrá skal hagsmuni inn á Mínum síðum frambjóðanda í kosningakerfi Pírata (https://x.piratar.is) 
+8. Frambjóðendur gera grein fyrir öllum þeim hagsmunum sem gætu skipt máli við framboðið. Hagsmunaskráningu skal lokið áður en kosning hefst þann 19. mars. Skrá skal hagsmuni inn á Mínum síðum frambjóðanda í kosningakerfi Pírata (https://x.piratar.is) 
 
 9. Sé greitt fyrir auglýsingar til kynningar á framboði í prófkjöri verður að gera grein fyrir þeim fjárútlátum. Þetta er samkvæmt landslögum og má finna leiðbeiningar hér: https://www.rikisend.is/reskjol/files/Leidbeiningar/2021-leidbeiningar-fyrir-personukjor.pdf
 10. 
